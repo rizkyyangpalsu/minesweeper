@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.field-container{
+    display: flex;
+    width: 600px;
+    height: 600px;
+    background: azure;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+}
+
+td {
+    height: 60px;
+    width: 60px;
+}
+
